@@ -1,4 +1,3 @@
-# Alpha
 # James' GitLab/GitHub Profile
 
 ## About Me
