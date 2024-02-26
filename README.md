@@ -10,7 +10,7 @@ I am James, an experienced Email Engineer with a passion for crafting compelling
 
 ### Project 2: SemiH
 - Description: While my primary focus is email engineering, I've also contributed to semiH, implementing modal features for SemiHealthyLife.com. This project showcases my versatility and ability to apply web development skills to related domains.
-- Link: [https://github.com/jamesnicholsjr/semiH]
+- Link: https://github.com/jamesnicholsjr/semiH
 
 
 ## Skills
