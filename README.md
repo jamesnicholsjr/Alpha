@@ -33,6 +33,6 @@ Throughout my career, I have actively contributed to open-source projects on Git
 - System administration
 
 ## Contact Information
-Feel free to reach out to me via email at james@email.com or connect with me on LinkedIn at [Your LinkedIn Profile URL].
+Feel free to reach out to me via email at designerjamesn@gmail.com or connect with me on LinkedIn at [https://www.linkedin.com/in/james-nichols-csm-106b5720b].
 
 Thank you for taking the time to review my profile. I look forward to potential collaboration opportunities.
