@@ -6,7 +6,7 @@ I am James, an experienced Email Engineer with a passion for crafting compelling
 ## Git Projects
 ### Project 1: Email-Engineering-Projects
 - Description: In this repository, you'll find a collection of email campaigns I've engineered. Custom HTML email templates designed for optimal performance across various email clients and devices.
-- Link: [https://github.com/jamesnicholsjr/Email-Engineering-Projects]
+- Link: https://github.com/jamesnicholsjr/Email-Engineering-Projects
 
 ### Project 2: SemiH
 - Description: While my primary focus is email engineering, I've also contributed to semiH, implementing modal features for SemiHealthyLife.com. This project showcases my versatility and ability to apply web development skills to related domains.
