@@ -1,7 +1,7 @@
 # James' Git Profile
 
 ## About Me
-I am James, an experienced Email Engineer with a passion for crafting compelling and high-performing email campaigns. With a strong background in email design, coding, and optimization, I specialize in delivering engaging experiences that drive results.
+I am James, an experienced Email Engineer with a passion for crafting compelling and high-performing email campaigns. With a strong background in email design, coding, and optimization, I specialize in delivering engaging experiences that drive results. The projects you see here, are not just professional endeavors but also my passion projects.
 
 ## Git Projects
 ### Project 1: Email-Engineering-Projects
@@ -11,12 +11,6 @@ I am James, an experienced Email Engineer with a passion for crafting compelling
 ### Project 2: SemiH
 - Description: While my primary focus is email engineering, I've also contributed to semiH, implementing modal features for SemiHealthyLife.com. This project showcases my versatility and ability to apply web development skills to related domains.
 - Link: [https://github.com/jamesnicholsjr/semiH]
-
-## Command Line Tooling
-I have extensive experience working with command line tools for various tasks, including but not limited to:
-- Scripting
-- Automation
-- System administration
 
 
 ## Skills
