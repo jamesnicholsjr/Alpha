@@ -18,11 +18,6 @@ I have extensive experience working with command line tools for various tasks, i
 - Automation
 - System administration
 
-## GitHub Contributions
-Throughout my career, I have actively contributed to open-source projects on GitHub. Some notable contributions include:
-- [Contribution 1]
-- [Contribution 2]
-- [Contribution 3]
 
 ## Skills
 - Proficient in Git version control
