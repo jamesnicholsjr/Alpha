@@ -1,4 +1,4 @@
-# James' GitLab/GitHub Profile
+# James' GitL Profile
 
 ## About Me
 I am James, a dedicated Email Engineer with a passion for leveraging technology to streamline processes and drive efficiency. My expertise lies in email engineering, Git, and command line tooling.
